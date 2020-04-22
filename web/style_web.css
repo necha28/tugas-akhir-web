@@ -1,0 +1,56 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+  div.menu{
+    width: 100%;
+    background: #3ba4ac;
+    position: sticky;
+    top:0;
+    left: 0;
+  }
+  
+  div.menu ul{
+    list-style-type: none; /* menghilangkan bullet pada list */
+    overflow: hidden; /* menghilangkan scroll bar */
+    padding: 0; /* jarak antara border dengan konten (jarak dalam) */
+    margin: 0; /* jarak antara tiap elemen (jarak luar) */
+  }
+  
+  div.menu li{
+    float:right; /* posisi element dari kanan */
+  }
+  
+  div.menu li a{
+    text-decoration: none; /* menghilangkan garis bawah pada link */
+    color: #fff; /* warna font pada link */
+    text-align:center; /* rata tengah teks */
+    padding: 18px 20px; /* 13 untuk top & bottom, 15 untuk right & left */
+    font-size: 20px;
+    display: block; /* menampilkan elemen */
+  }
+  
+  div.menu li a:hover{ /* mouseover -> ketika mouse meraba elemen */
+    background: #fff;
+    color: #3ba4ac;
+    border: 2px solid #fff;
+    /* 2px itu tebalnya, solid itu tipe garis, red itu warna border */
+  }
+  
+  
+  div.header{
+    text-align: center;
+    background-color: #fff;
+    width: 100%;
+    height: 500px;
+    float: left;
+    position: relative;
+  }
+  
+  div.bayangan{
+    width: 100%;
+    height: 500px;
+    float: left;
+    position: absolute;
+  }
+  
