@@ -26,7 +26,7 @@ Isi dari covid-19
 
 Tes covid
 
-![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss12.PNG)
+![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss12.png)
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss5.PNG)
 
@@ -41,17 +41,17 @@ Check results (positif)
 Info 
 terhubung ke sites yang pernah saya buat berisi tentang info mengenai corona dan tips.
 
-![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss13.PNG)
+![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss13.png)
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss8.PNG)
 
 Profil penulis
 
-![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss14.PNG)
+![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss14.png)
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss9.PNG)
 
 Logout
 Keluar dari web dan kembali ke tampilan login
 
-![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss15.PNG)
+![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss15.png)
