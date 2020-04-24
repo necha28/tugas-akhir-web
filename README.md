@@ -11,7 +11,7 @@
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss2.PNG)
 
-### Data akan masuk dan tersimpan di dalam ddatabase
+### Data akan masuk dan tersimpan di dalam database
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss10.PNG)
 
