@@ -20,7 +20,7 @@ Tampilan setelah login
 
 Isi dari covid-19
 
-![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss11.PNG)
+![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss11.png)
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss4.PNG)
 
