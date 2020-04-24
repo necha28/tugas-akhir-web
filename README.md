@@ -1,6 +1,7 @@
 # tugas-akhir-web
+# WEB TUGAS AKHIR
 
-Tampilan LOGIN 
+Tampilan LOGIN
 masukkan username dan password jika anda sudah mempunyai akun
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss1.PNG)
@@ -28,7 +29,7 @@ Tes covid
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss12.png)
 
-Isi data diri anda dan gejala yang dialami
+Isi data diri anda dan gejala yang dialami. Kemudian klik 'Check'
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss5.PNG)
 
