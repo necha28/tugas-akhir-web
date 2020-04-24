@@ -28,6 +28,8 @@ Tes covid
 
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss12.png)
 
+Isi data diri anda dan gejala yang dialami
+
 ![Alt Text](https://github.com/necha28/tugas-akhir-web/blob/master/ss5.PNG)
 
 Check results (negatif)
